@@ -1,2 +1,2 @@
-# J.W.shortener
+# Pitu
 A sample micro-SaaS from URL shortening

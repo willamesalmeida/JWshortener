@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/cors": "^2.8.8",
+    "@types/validator": "^13.1.0",
+    "cors": "^2.8.5",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "name": "JWshortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/willamesalmeida/JWshortener.git",
+  "author": "José Willames <38707851+willamesalmeida@users.noreply.github.com>",
+  "license": "MIT"
+}
